@@ -1,3 +1,5 @@
 Red
 Yellow
 Black
+Blue 
+Purple
